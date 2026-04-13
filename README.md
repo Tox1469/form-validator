@@ -1,3 +1,10 @@
+[![CI](https://img.shields.io/github/actions/workflow/status/Tox1469/form-validator/ci.yml?style=flat-square&label=ci)](https://github.com/Tox1469/form-validator/actions)
+[![License](https://img.shields.io/github/license/Tox1469/form-validator?style=flat-square)](LICENSE)
+[![Release](https://img.shields.io/github/v/release/Tox1469/form-validator?style=flat-square)](https://github.com/Tox1469/form-validator/releases)
+[![Stars](https://img.shields.io/github/stars/Tox1469/form-validator?style=flat-square)](https://github.com/Tox1469/form-validator/stargazers)
+
+---
+
 # form-validator
 
 Validação de formulários com regras compostas: required, min, max, pattern, email e custom.
