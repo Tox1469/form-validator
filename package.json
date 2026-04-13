@@ -1,0 +1,19 @@
+{
+  "name": "form-validator",
+  "version": "1.0.0",
+  "description": "Validação de formulários com regras compostas",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "files": ["dist"],
+  "scripts": {
+    "build": "tsc",
+    "prepublishOnly": "npm run build"
+  },
+  "keywords": ["form","validation","rules","schema"],
+  "author": "Tox",
+  "license": "MIT",
+  "devDependencies": {
+    "typescript": "^5.0.0",
+    "@types/node": "^20.0.0"
+  }
+}
